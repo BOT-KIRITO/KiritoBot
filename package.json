@@ -1,5 +1,5 @@
 {
-  "name": "BOT",
+  "name": "BOT-KIRITO",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -37,11 +37,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naylachan/BOTZ2.git"
+    "url": "git+https://github.com/BOT-KIRITO/KiritoBot.git"
   },
   "bugs": {
-    "url": "https://github.com/naylachan/BOTZ2/issues"
+    "url": "https://github.com/BOT-KIRITO/KiritoBot/issues"
   },
-  "homepage": "https://github.com/naylachan/BOTZ2#readme"
+  "homepage": "https://github.com/BOT-KIRITO/KiritoBot#readme"
 }
 
