@@ -1,12 +1,6 @@
 ## 
 ###CARA INSTALLNYA### 
-
-
-
-
-
-
-
+```bash
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage [ Lalu Ijinkan ]
 > apt-get update -y
@@ -18,3 +12,4 @@
 > cd babybot
 > bash install.sh
 > npm start
+```
