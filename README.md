@@ -1,5 +1,12 @@
 ## 
 ###CARA INSTALLNYA### 
+
+
+
+
+
+
+
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage [ Lalu Ijinkan ]
 > apt-get update -y
